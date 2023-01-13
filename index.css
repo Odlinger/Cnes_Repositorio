@@ -1,0 +1,52 @@
+body{
+	background-color:#cad2c5;
+	font-family: arial;
+}
+
+
+#aviso img{
+	width: 1200px;
+	height: 800px;
+	display: flex;
+	margin: auto;
+	display: block;
+}
+
+header h1{
+	text-align:center;
+	font-size: 20pt;
+	padding-bottom: 50px;
+	color:white;
+}
+
+#aviso{
+	font-size: 15pt;
+}
+
+header{
+	background-color: #52796f;
+}
+
+footer{
+	padding-top: 50px;
+	background-color:#52796f;
+}
+
+footer h2{
+	text-align: center;
+}
+
+footer a{
+	text-decoration: none;
+	color: white;
+}
+
+header img{
+	padding:10px;
+}
+
+footer img{
+	margin: auto;
+	display: block;
+}
+
